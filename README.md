@@ -1,5 +1,13 @@
 ## Raul Silva Araujo
 
+🚀 Sou um desenvolvedor apaixonado pelo Vue.js, com um profundo conhecimento em frameworks e tecnologias relacionadas. Minha jornada de 5 anos nesta área me permitiu dominar não apenas o Vue.js, mas também suas extensões essenciais, como Vuetify, Vuex e Vue Router. Além disso, possuo experiencia com o Nuxt.js, uma ferramenta poderosa para criação de aplicações Vue.js server-side. 🚀
+
+⚙️ Também trabalho com Node.js e MongoDB para construir back-ends robustos. Utilizo o Prisma.js para acessar o banco de dados de forma eficiente e segura.
+
+📱 Além disso, tenho experiência em Flutter para desenvolvimento de aplicativos móveis.
+
+🎯 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Se você precisa de um desenvolvedor dedicado e qualificado, estou pronto para colaborar!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Raul-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
