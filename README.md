@@ -37,6 +37,4 @@
     <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
   </a>
  
-![Snake animation](https://github.com/RaulSAraujo/RaulSAraujo/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
